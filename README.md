@@ -33,11 +33,3 @@ I'm a passionate Web Developer and Software Engineer who loves building clean, e
 - **TypeSense** (search)
 
 ---
-
-## 📫 Let's Connect
-Feel free to reach out if you'd like to collaborate, share ideas, or just say hi!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/bishal-dhakal-582729204/)
-- 💌 Email: dhakalbishal930@gmail.com
-
-Thanks for stopping by! 🚀
