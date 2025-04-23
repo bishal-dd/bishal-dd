@@ -19,13 +19,13 @@ I'm a passionate Web Developer and Software Engineer who loves building clean, e
 - **GraphQL (gqlgen / Apollo Server)**
 - **PostgreSQL**
 - **Redis** (for caching)
-- 
+  
 ### 🚀 Deployment
 - **AWS**
 - **Render**
 - **Vercel**
 - **Cloudflare**
-- 
+  
 ### 🔧 Dev Tools & Misc
 - **pnpm** (my preferred package manager)
 - **Docker**
