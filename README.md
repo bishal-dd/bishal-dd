@@ -34,8 +34,6 @@ I'm a passionate Web Developer and Software Engineer who loves building clean, e
 
 ---
 
----
-
 ## 📫 Let's Connect
 Feel free to reach out if you'd like to collaborate, share ideas, or just say hi!
 
